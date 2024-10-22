@@ -9,7 +9,7 @@ Product Analysis
 
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
-#Sales Analysis
+Sales Analysis
 
 This analysis aims to answer the question of the sales trends of product. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 
@@ -40,7 +40,7 @@ Feature Engineering: This will help us generate some new columns from existing o
 2.3        Add a new column named monthname that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
 
-             3. Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
+3. Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
 
 Business Questions To Answer:
 What is the count of distinct cities in the dataset?
