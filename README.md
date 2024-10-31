@@ -4,7 +4,7 @@ About Data:
 
 This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
-Analysis List
+Analysis List:
 Product Analysis
 
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
