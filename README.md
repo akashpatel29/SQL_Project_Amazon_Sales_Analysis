@@ -29,7 +29,7 @@ Approach Used
 
 1.2        Create a table and insert the data.
 
-1.3         Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT  NULL for each field, hence null values are filtered out.
+1.3        Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT  NULL for each field, hence null values are filtered out.
 
 
 2. Feature Engineering:
