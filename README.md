@@ -25,7 +25,7 @@ Approach Used
 1. Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
 
 
-1.1         Build a database
+1.1        Build a database
 
 1.2         Create a table and insert the data.
 
